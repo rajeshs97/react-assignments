@@ -1,0 +1,16 @@
+.container
+{
+  background: red;
+}
+.col-lg-12
+{
+  background: green;
+}
+.col-lg-4
+{
+  background: yellow;
+}
+.col-lg-8
+{
+  background: pink;
+}
