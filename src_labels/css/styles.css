@@ -1,0 +1,14 @@
+#content
+{
+  margin-top:90px;
+}
+.panel-body
+{
+  text-align: center;
+}
+.panel-body button
+{
+  color:black;
+  background-color: white;
+  border-color: white;
+}
