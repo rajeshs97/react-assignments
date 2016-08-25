@@ -1,0 +1,25 @@
+.panel-body{
+margin-top: 80px;
+}
+#rightPanel{
+margin-top: 80px;
+}
+h1{
+  text-align: center;
+  background-color: lightgreen;
+}
+#nav{
+  background-color: lightgreen;
+}
+#headerMail1{
+  text-decoration-color: transparent;
+  color: blue;
+}
+#headerMail2{
+  text-decoration-color: transparent;
+  color:red;
+}
+#headerMail3{
+  text-decoration-color: transparent;
+  color: cyan;
+}
