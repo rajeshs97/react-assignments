@@ -1,0 +1,35 @@
+.panel-body{
+margin-top: 80px;
+}
+#rightPanel{
+margin-top: 80px;
+}
+h1{
+  text-align: center;
+  background-color: lightgreen;
+}
+#nav{
+  background-color: lightgreen;
+}
+#from{
+  color: green;
+}
+#subject{
+  color: blue;
+}
+#date{
+  color: orange;
+}
+#r-button{
+  color: yellow;
+  margin-top: 21px;
+  margin-left: 300px;}
+#mailHeading{
+  color: orange;
+}
+#composebtn{
+  margin-left: -1pc;
+}
+#navHead{
+  text-align: center;
+}
