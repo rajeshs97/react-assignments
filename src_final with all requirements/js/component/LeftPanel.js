@@ -3,7 +3,6 @@ var React=require('react');
 var LabelComponent=require('./LabelComponent');
 var ModalWindow =require('./ModalWindow');
 var LabelFun=require('./LabelFun');
-msgeID
 var LeftPanel=React.createClass({
 
   getInitialState: function(){
