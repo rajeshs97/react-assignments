@@ -1,0 +1,85 @@
+@import "font-awesome-sprockets";
+@import "font-awesome";
+.panel-body{
+margin-top: 80px;
+}
+#rightPanel{
+margin-top: 80px;
+}
+h1{
+  text-align: center;
+  background-color: lightgreen;
+}
+#nav{
+  background-color: lightgreen;
+}
+#from{
+  color: black;
+}
+#subject{
+  color: red;
+}
+#date{
+  color: black;
+}
+#r-button{
+  color: white;
+  margin-top: -121px;
+  margin-left: 1218px;}
+#mailTitle{
+  color: blueviolet;
+}
+#composebtn{
+  margin-left: -1pc;
+}
+#navHead{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  background-color: lightgreen;
+  font-style: italic;
+}
+iframe{
+  width: 100%;
+  border: 0;
+  min-height: 100%;
+  display: flex;
+}
+.active{
+  color: cyan;
+}
+#modalWindow{
+  margin-bottom: 10px;
+  background-color: hsl(356, 70%, 44%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fdf6f6", endColorstr="#be212c");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#fdf6f6), to(#be212c));
+  background-image: -moz-linear-gradient(top, #fdf6f6, #be212c);
+  background-image: -ms-linear-gradient(top, #fdf6f6, #be212c);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fdf6f6), color-stop(100%, #be212c));
+  background-image: -webkit-linear-gradient(top, #fdf6f6, #be212c);
+  background-image: -o-linear-gradient(top, #fdf6f6, #be212c);
+  background-image: linear-gradient(#fdf6f6, #be212c);
+  border-color: #be212c #be212c hsl(356, 70%, 30.5%);
+  color: #333 !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.89);
+  -webkit-font-smoothing: antialiased;
+}
+#labellink{
+  background-color: hsl(168, 84%, 42%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fffefe", endColorstr="#11c5a1");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#fffefe), to(#11c5a1));
+  background-image: -moz-linear-gradient(top, #fffefe, #11c5a1);
+  background-image: -ms-linear-gradient(top, #fffefe, #11c5a1);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fffefe), color-stop(100%, #11c5a1));
+  background-image: -webkit-linear-gradient(top, #fffefe, #11c5a1);
+  background-image: -o-linear-gradient(top, #fffefe, #11c5a1);
+  background-image: linear-gradient(#fffefe, #11c5a1);
+  border-color: #11c5a1 #11c5a1 hsl(168, 84%, 27.5%);
+  color: #333 !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.95);
+  -webkit-font-smoothing: antialiased;
+}
